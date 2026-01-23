@@ -33,11 +33,16 @@
 • Quarterly cadence shows consistent uplift across 2024→2025 with Q2–Q4 2025 particularly strong.
 • Operational challenge: COGS grew faster than sales (208.6% vs 204.5% YoY), requiring focus on cost control.
 
+![Mrkt vs Target](https://github.com/user-attachments/assets/836f5017-c7c8-4176-a279-897c5abbd830)
+
+![Top products](https://github.com/user-attachments/assets/008b05a8-c7fc-460b-9c13-9af45ce1cfad)
+
 ### Top-Performing Markets:
 - India: $161.3M (2025) — largest contributor; high absolute margin dollars though slightly below target.
 - USA: $87.8M (2025) — major growth engine with healthy GM dollars.
 - South Korea: $49.0M (2025) — strong regional performer.
 - Canada, United Kingdom, Philippines delivered mid-to-high YoY gains.
+
 ![Top 5 Market](https://github.com/user-attachments/assets/de286c26-2fca-4eef-bb68-9f5827e624e1)
  
 ### Underperforming Markets:
@@ -48,29 +53,37 @@
 • Amazon, AtliQ eStore, Flipkart, Walmart, Costco — consistent year-over-year growth and reliable volume.
 •	Regional markets with stable GM% (ANZ, ROA, SE) provide predictable profitability.
 
-### Emerging Markets
-• Customer-level breakouts: Nova (2664.9%), Chiptec (722%) — high-growth from small bases; potential for scale if supported.
-• Product breakouts: AQ Mx NB (5723.5%), AQ Smash 2 (2589.5%) — indicate strong product-market fit and cross-market potential.
-• New channels: Several electrical specialty chains and integration stores show >400% growth, signaling successful channel expansion.
+![PL Fiscal Year](https://github.com/user-attachments/assets/6c56bdaf-b7ca-4158-b7b4-24dea3b1d940)
+
+![PL by Qtr](https://github.com/user-attachments/assets/29d89786-11c3-4e93-a756-6b126d09ad75)
+
+### Emerging Markets:
+- Customer-level breakouts: Nova (2664.9%), Chiptec (722%) — high-growth from small bases; potential for scale if supported.
+- Product breakouts: AQ Mx NB (5723.5%), AQ Smash 2 (2589.5%) — indicate strong product-market fit and cross-market potential.
+- New channels: Several electrical specialty chains and integration stores show >400% growth, signaling successful channel expansion.
 
 ### High-Impact Regions
-• India and USA combined represent the majority of 2025 revenue and are critical to company performance.
-• South Korea, Canada, UK, Philippines form the secondary tier that materially affects global results and margin profile.
-• ROA and SE sub-zones maintain higher GM% and should be leveraged for margin improvement.
+- India and USA combined represent the majority of 2025 revenue and are critical to company performance.
+- South Korea, Canada, UK, Philippines form the secondary tier that materially affects global results and margin profile.
+- ROA and SE sub-zones maintain higher GM% and should be leveraged for margin improvement.
 
 ### Year-over-Year Growth
-• 2023 → 2024: Net sales increased by ~124.8% (base expansion and channel onboarding).
-• 2024 → 2025: Net sales increased by 204.5%, driven by product launches and aggressive distribution scaling.
+- 2023 → 2024: Net sales increased by ~124.8% (base expansion and channel onboarding).
+- 2024 → 2025: Net sales increased by 204.5%, driven by product launches and aggressive distribution scaling.
 
-### Learnings from this Analysis
-• 	Rapid revenue growth must be matched by margin discipline; absolute gross margin gains can mask percentage erosion.
-• 	Product innovation and channel expansion are high-leverage levers — new SKUs and new partners produced outsized returns.
-• 	Targets and execution must be aligned; consistent target misses indicate planning or execution gaps rather than lack of demand.
-• 	Small-base breakouts can scale quickly if supported; early investment in logistics and marketing for breakout customers/products yields high ROI.
-• 	Balanced growth strategy (scale + margin + geographic diversification) is essential to convert strong top-line momentum into sustainable profitability.
+![GM%](https://github.com/user-attachments/assets/6b69da01-5daf-4535-a9bf-97f785cb72ea)
 
 ### Executive Summary
 AtliQ Hardware demonstrated remarkable net sales growth, escalating from $87.5M in FY2023 to $598.9M in FY2025, representing a 584% increase over two fiscal years. 
 But margin compression and target shortfalls require immediate focus on cost control, target realism, and strategic investment in high-potential products and markets.
 Strategic Focus Areas: Identify opportunities in high-growth markets, optimize underperforming regions, and leverage successful customer and product strategies for sustained growth.
+
+### Learnings from this Analysis:
+- Gained experience in handling large datasets and do EDA using Excel
+- Identifying patterns, finding inconsistency and turn messy data into Insightful Data
+- Proficient in creating professional Business Reports and Dashboards
+- A better understanding of Sales & Finance Metrics
+- Learned to be a better communicator to explain complex business problems & providing solutions 
+
+
 
