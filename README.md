@@ -38,6 +38,7 @@
 - USA: $87.8M (2025) — major growth engine with healthy GM dollars.
 - South Korea: $49.0M (2025) — strong regional performer.
 - Canada, United Kingdom, Philippines delivered mid-to-high YoY gains.
+![Top 5 Market](https://github.com/user-attachments/assets/de286c26-2fca-4eef-bb68-9f5827e624e1)
  
 ### Underperforming Markets:
 - Poland (-18.1% vs target), Canada (-14.5%), Spain (-14.1%), Austria (-11.7%), Australia (-10.5%) — missed targets despite growth.
@@ -61,7 +62,7 @@
 • 2023 → 2024: Net sales increased by ~124.8% (base expansion and channel onboarding).
 • 2024 → 2025: Net sales increased by 204.5%, driven by product launches and aggressive distribution scaling.
 
-Learnings from this Analysis
+### Learnings from this Analysis
 • 	Rapid revenue growth must be matched by margin discipline; absolute gross margin gains can mask percentage erosion.
 • 	Product innovation and channel expansion are high-leverage levers — new SKUs and new partners produced outsized returns.
 • 	Targets and execution must be aligned; consistent target misses indicate planning or execution gaps rather than lack of demand.
