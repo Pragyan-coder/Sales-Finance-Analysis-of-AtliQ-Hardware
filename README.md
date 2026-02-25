@@ -1,28 +1,28 @@
-# Data Analysis with MS Excel
+# 📌 Finance Analytics with MS Excel
 ## Project: Sales & Finance Analytics (AtliQ Hardware)
 
-### Brief summary & objective:
+### 1. Brief summary & objective:
 - AtliQ Hardware, a leading hardware company with a global focus on PCs, printers, mouse, and computers.
 - The goal of the project is to improve the performance and profits for AtliQ Hardware, and to explore potential for optimization, analyse trends, and identify cost drivers in order to deliver meaningful insights into sales and finance.
 - To understand key areas of the company such as product performance, customer behaviour, and cost structures.
 
-### Role as a Data Analyst:
+### 1.1 Role as a Data Analyst:
 - To extract from different sources and prepare the data for analysis.
 - To perform (EDA) to identify patterns and anomalies using PowerQ.
 - Build reports in Excel to visualize sales trends, profit margins, and cost breakdowns.
 - Derive insights to make informed decision-making for the growth of AtliQ
 
-### About the Data:
+### 1.2 About the Data:
 - The dataset consisted of 7,99,962 entries with the following features such as: Transaction dates, product_code: Unique product identifiers, enabling product-level analysis.
 
-### Analysis Process: ETL Technique
+### 2. Analysis Process: ETL Technique
 - Data Extraction: from different excel csv files into the Data model
 - Data Cleaning: with Power query – missing values, errors, replacing odd values, etc
 - Data Preparation: with DAX formulas creating columns, and all
 - Ensured consistency in date formatting and checked for missing or duplicate entries. Also, created calculated fields like (net_sales_amount, net_sales).
 - Exploratory Analysis: Examined sales trends over time, identified top-performing products, and analyzed customer purchase patterns.
 
-### Insights & Findings:
+### 3. Insights & Findings:
 - Revenue acceleration: Net sales rose from $87.5M (2023) to $196.7M (2024) and $598.9M (2025), a 204.5% increase (2025 vs 2024).
 - Margin dynamics: GM increased in absolute terms ($36.2M → $73.3M → $218.2M) while GM% declined from 41.4% to 36.4%, indicating cost or pricing pressure.
 - Concentration risk: A small set of markets and customers (notably India and USA, and accounts like Amazon, AtliQ Exclusive) account for a large share of 2025 sales.
@@ -37,7 +37,7 @@
 
 ![Top products](https://github.com/user-attachments/assets/008b05a8-c7fc-460b-9c13-9af45ce1cfad)
 
-### Top-Performing Markets:
+### 4. Top-Performing Markets:
 - India: $161.3M (2025) — largest contributor; high absolute margin dollars though slightly below target.
 - USA: $87.8M (2025) — major growth engine with healthy GM dollars.
 - South Korea: $49.0M (2025) — strong regional performer.
@@ -45,11 +45,11 @@
 
 ![Top 5 Market](https://github.com/user-attachments/assets/de286c26-2fca-4eef-bb68-9f5827e624e1)
  
-### Underperforming Markets:
+### 5. Underperforming Markets:
 - Poland (-18.1% vs target), Canada (-14.5%), Spain (-14.1%), Austria (-11.7%), Australia (-10.5%) — missed targets despite growth.
 - Root causes to investigate: pricing competitiveness, distribution gaps, inventory constraints, or overly aggressive targets.
 
-### Steady Performers
+### 6. Steady Performers
 • Amazon, AtliQ eStore, Flipkart, Walmart, Costco — consistent year-over-year growth and reliable volume.
 •	Regional markets with stable GM% (ANZ, ROA, SE) provide predictable profitability.
 
@@ -57,12 +57,12 @@
 
 ![PL by Qtr](https://github.com/user-attachments/assets/29d89786-11c3-4e93-a756-6b126d09ad75)
 
-### Emerging Markets:
+### 7. Emerging Markets:
 - Customer-level breakouts: Nova (2664.9%), Chiptec (722%) — high-growth from small bases; potential for scale if supported.
 - Product breakouts: AQ Mx NB (5723.5%), AQ Smash 2 (2589.5%) — indicate strong product-market fit and cross-market potential.
 - New channels: Several electrical specialty chains and integration stores show >400% growth, signaling successful channel expansion.
 
-### High-Impact Regions
+### 8. High-Impact Regions
 - India and USA combined represent the majority of 2025 revenue and are critical to company performance.
 - South Korea, Canada, UK, Philippines form the secondary tier that materially affects global results and margin profile.
 - ROA and SE sub-zones maintain higher GM% and should be leveraged for margin improvement.
@@ -85,5 +85,7 @@ Strategic Focus Areas: Identify opportunities in high-growth markets, optimize u
 - A better understanding of Sales & Finance Metrics
 - Learned to be a better communicator to explain complex business problems & providing solutions 
 
+# Author & Contact 
+👩‍💻 Author: Pragyan Saikia
 
-
+📧 Email: [pragyan.saikia04@gmail.com]
