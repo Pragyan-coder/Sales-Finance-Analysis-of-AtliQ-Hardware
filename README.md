@@ -30,8 +30,8 @@
 - Target shortfall: Aggregate 2025 sales missed targets by $54.9M (-9.2%), despite strong absolute growth.
 - Strong top-line expansion driven by scale-up of distribution and successful product launches.
 - Profitability improved in dollars but margin compression (-2.3 percentage points vs 2024) signals rising COGS or promotional activity.
-• Quarterly cadence shows consistent uplift across 2024→2025 with Q2–Q4 2025 particularly strong.
-• Operational challenge: COGS grew faster than sales (208.6% vs 204.5% YoY), requiring focus on cost control.
+- Quarterly cadence shows consistent uplift across 2024→2025 with Q2–Q4 2025 particularly strong.
+- Operational challenge: COGS grew faster than sales (208.6% vs 204.5% YoY), requiring focus on cost control.
 
 ![Mrkt vs Target](https://github.com/user-attachments/assets/836f5017-c7c8-4176-a279-897c5abbd830)
 
@@ -49,9 +49,9 @@
 - Poland (-18.1% vs target), Canada (-14.5%), Spain (-14.1%), Austria (-11.7%), Australia (-10.5%) — missed targets despite growth.
 - Root causes to investigate: pricing competitiveness, distribution gaps, inventory constraints, or overly aggressive targets.
 
-### 6. Steady Performers
-• Amazon, AtliQ eStore, Flipkart, Walmart, Costco — consistent year-over-year growth and reliable volume.
-•	Regional markets with stable GM% (ANZ, ROA, SE) provide predictable profitability.
+### 6. Steady Performers:
+- Amazon, AtliQ eStore, Flipkart, Walmart, Costco — consistent year-over-year growth and reliable volume.
+- Regional markets with stable GM% (ANZ, ROA, SE) provide predictable profitability.
 
 ![PL Fiscal Year](https://github.com/user-attachments/assets/6c56bdaf-b7ca-4158-b7b4-24dea3b1d940)
 
